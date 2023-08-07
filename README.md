@@ -3,7 +3,7 @@
 
 ## Summary
 
- I am an engineer by education for over 4 years, I have been primarily involved in writing programs in 
+ I am an engineer by education. For over 4 years, I have been primarily involved in writing programs in 
  the KRL language for industrial robots cooperating with automated production lines.
  
  Currently, I have completed a Java programming bootcamp. 
