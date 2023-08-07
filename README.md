@@ -11,7 +11,7 @@
 After completing the course, I gained basic knowledge in the field of:
 Java, OOP, SQL, Servlets, JSP, JavaScript, Hibernate and Rest API.
 
- Currently focusing on Spring Boot and Hibernate using relational databases. 
+ Mostly I am focused on Spring Boot and Hibernate using relational databases. 
  Also creating REST services in Spring using ready-made APIs, e.g. GitHub REST API, creating basic functionalities.
 
 I would like to take up my first challenge as a Back-End Developer.
