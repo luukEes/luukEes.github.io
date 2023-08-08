@@ -248,7 +248,7 @@ h6 {
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
-  position: absolute;
+  position: center;
   bottom: 0;
   top: 0;
   left: 0;
@@ -313,6 +313,7 @@ section {
 
 .section-bg {
   background: #f5f8fd;
+  
 }
 
 .section-title {
@@ -346,6 +347,7 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -514,7 +516,7 @@ section {
   background: #149ddd;
   color: #fff;
 }
-
+.contact .info .linkedin:hover i,
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
