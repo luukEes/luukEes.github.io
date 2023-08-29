@@ -1,6 +1,5 @@
 
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
 luukEes.github.io is a site based on the GitHub domain.
