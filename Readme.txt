@@ -8,3 +8,4 @@ The project was written in HTML and CSS technology.
 The template from BootstrapMade.com was used in the project.
 
 https://luukees.github.io/
+
